@@ -39,7 +39,7 @@ class Solution:
         
     
     # 3. heapq 모듈의 nlargest 이용
-    def findKthLargest(self, nums, K)
+    def findKthLargest(self, nums, K):
     '''
     nlargest는 n번째 큰 값을 추출하는 매서드
     k번째 만큼 큰 값이 가장 큰 값부터 순서대로 리스트로 리턴
@@ -49,7 +49,7 @@ class Solution:
         
     
     # 4. 정렬을 이용한 풀이
-    def findKthLargest(self, nums, K)
+    def findKthLargest(self, nums, K):
     '''
     nums를 오름차순으로 정렬해서 슬라이싱을 이용하는 풀이입니다.
     '''
