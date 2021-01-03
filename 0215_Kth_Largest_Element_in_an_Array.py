@@ -1,4 +1,4 @@
-class Solution():
+class Solution:
     # 1. heapq 모듈 이용    
     def findKthLargest(self, nums,K):
         '''
