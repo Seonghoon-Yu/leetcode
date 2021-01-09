@@ -3,7 +3,7 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 참고 사이트 : [leetcode discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 
-참고 자료 : [책, 파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
+참고 자료 : [책만, 박상길, 파이썬 알고리즘 인터뷰](https://www.onlybook.co.kr/entry/algorithm-interview)
 
 개인 블로그 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
