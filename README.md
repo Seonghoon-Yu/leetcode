@@ -9,18 +9,17 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 ---
 
-0056 - [Merge Intervals](https://github.com/Seonghoon-Yu/leetcode/blob/master/0056_Merge_Intervals.py)
+56 - [Merge Intervals](https://github.com/Seonghoon-Yu/leetcode/blob/master/0056_Merge_Intervals.py)
 
-0105 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Seonghoon-Yu/leetcode/blob/master/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
+105 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Seonghoon-Yu/leetcode/blob/master/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
 
-0148 - [Sort List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0148_Sort_List.py)
+148 - [Sort List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0148_Sort_List.py)
 
-0208 - [Implement Trie](https://github.com/Seonghoon-Yu/leetcode/blob/master/0208_Implement_Trie.py)
+208 - [Implement Trie](https://github.com/Seonghoon-Yu/leetcode/blob/master/0208_Implement_Trie.py)
 
-0215 - [Kth Largest Element in an Array](https://github.com/Seonghoon-Yu/leetcode/blob/master/0215_Kth_Largest_Element_in_an_Array.py)
+215 - [Kth Largest Element in an Array](https://github.com/Seonghoon-Yu/leetcode/blob/master/0215_Kth_Largest_Element_in_an_Array.py)
 
-0783 - [Minimum Distance Betwwen BST nodes](https://github.com/Seonghoon-Yu/leetcode/blob/master/0783_minimum_distance_between_bst_nodes.py)
+783 - [Minimum Distance Betwwen BST nodes](https://github.com/Seonghoon-Yu/leetcode/blob/master/0783_minimum_distance_between_bst_nodes.py)
 
-
-0938 - [Range Sum of BST](https://github.com/Seonghoon-Yu/leetcode/blob/master/0938_range_sum_of_BST.py)
+938 - [Range Sum of BST](https://github.com/Seonghoon-Yu/leetcode/blob/master/0938_range_sum_of_BST.py)
 
