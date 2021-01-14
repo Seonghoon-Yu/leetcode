@@ -27,6 +27,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0242 - [Valid Anagram](https://github.com/Seonghoon-Yu/leetcode/blob/master/0242_Valid_Anagram.py)
 
+0704 - [Binary_Search](https://github.com/Seonghoon-Yu/leetcode/blob/master/0704_Binary_Search.py)
+
 0783 - [Minimum Distance Betwwen BST nodes](https://github.com/Seonghoon-Yu/leetcode/blob/master/0783_minimum_distance_between_bst_nodes.py)
 
 0938 - [Range Sum of BST](https://github.com/Seonghoon-Yu/leetcode/blob/master/0938_range_sum_of_BST.py)
