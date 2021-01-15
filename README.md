@@ -9,6 +9,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 ---
 
+0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
+
 0056 - [Merge Intervals](https://github.com/Seonghoon-Yu/leetcode/blob/master/0056_Merge_Intervals.py)
 
 0075 - [Sort Colors](https://github.com/Seonghoon-Yu/leetcode/blob/master/0075_Sort_Colors.py)
