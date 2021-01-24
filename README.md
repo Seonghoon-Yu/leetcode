@@ -41,6 +41,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0349 - [Intersection of Two Arrays](https://github.com/Seonghoon-Yu/leetcode/blob/master/0349_Intersection_of_Two_Arrays.py)
 
+0424 - [Longest Repeating Character Replacement](https://github.com/Seonghoon-Yu/leetcode/blob/master/0424_Longest_Repeating_Character_Replacement.py)
+
 0461 - [Hamming Distance](https://github.com/Seonghoon-Yu/leetcode/blob/master/0461_Hamming_Distance.py)
 
 0704 - [Binary_Search](https://github.com/Seonghoon-Yu/leetcode/blob/master/0704_Binary_Search.py)
