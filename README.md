@@ -55,5 +55,5 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0938 - [Range Sum of BST](https://github.com/Seonghoon-Yu/leetcode/blob/master/0938_range_sum_of_BST.py)
 
-0973 - [K Closest Points to Origin](https://github.com/Seonghoon-Yu/leetcode/commit/51aef2fddfa48fd27c8bdf836f1690bc6bf2b8b8)
+0973 - [K Closest Points to Origin](https://github.com/Seonghoon-Yu/leetcode/blob/master/0973_K_Closest_Points_to_Origin.py)
 
