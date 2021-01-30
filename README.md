@@ -43,6 +43,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0240 - [Search a 2D Matrix II](https://github.com/Seonghoon-Yu/leetcode/blob/master/0240_Search_a_2D_Matrix_II.py)
 
+0241 - [Different Ways to Add Parentheses](https://github.com/Seonghoon-Yu/leetcode/blob/master/0241_Different_Ways_to_Add_Parentheses.py)
+
 0242 - [Valid Anagram](https://github.com/Seonghoon-Yu/leetcode/blob/master/0242_Valid_Anagram.py)
 
 0349 - [Intersection of Two Arrays](https://github.com/Seonghoon-Yu/leetcode/blob/master/0349_Intersection_of_Two_Arrays.py)
