@@ -31,6 +31,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0167 - [Two Sum II Input array is sorted](https://github.com/Seonghoon-Yu/leetcode/blob/master/0167_Two_Sum_II_Input_array_is_sorted.py)
 
+0169 - [Majority Element](https://github.com/Seonghoon-Yu/leetcode/blob/master/0169_Majority_Element.py)
+
 0179 - [Largest Number](https://github.com/Seonghoon-Yu/leetcode/blob/master/0179_Largest_Number.py)
 
 0208 - [Implement Trie](https://github.com/Seonghoon-Yu/leetcode/blob/master/0208_Implement_Trie.py)
