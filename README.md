@@ -59,7 +59,7 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0509 - [Fibonacci Number](https://github.com/Seonghoon-Yu/leetcode/blob/master/0509_Fibonacci_Number.py)
 
-0621 - [Task Scheduler.py](https://github.com/Seonghoon-Yu/leetcode/blob/master/0621_Task_Scheduler.py)
+0621 - [Task Scheduler](https://github.com/Seonghoon-Yu/leetcode/blob/master/0621_Task_Scheduler.py)
 
 0704 - [Binary_Search](https://github.com/Seonghoon-Yu/leetcode/blob/master/0704_Binary_Search.py)
 
