@@ -15,6 +15,8 @@ LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있
 
 0056 - [Merge Intervals](https://github.com/Seonghoon-Yu/leetcode/blob/master/0056_Merge_Intervals.py)
 
+0070 - [Climbing Stairs](https://github.com/Seonghoon-Yu/leetcode/blob/master/0070_Climbing_Stairs.py)
+
 0075 - [Sort Colors](https://github.com/Seonghoon-Yu/leetcode/blob/master/0075_Sort_Colors.py)
 
 0076 - [Minimum Window Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0076_Minimum_Window_Substring.py)
