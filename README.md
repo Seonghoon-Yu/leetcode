@@ -1,5 +1,5 @@
-# leetcode
-LeetCode 문제를 풀어보면서 자료구조/알고리즘을 공부하고 있습니다.
+# 파이썬 알고리즘 인터뷰
+파이썬 알고리즘 인터뷰를 공부하면서 LeetCode 문제 풀이 코드를 정리하고 있습니다.
 
 참고 사이트 : [leetcode discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 
