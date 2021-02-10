@@ -9,6 +9,8 @@
 
 ---
 
+0005 - [Longest Palindrome Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0005_Longest_Palindrome_Substring.py)
+
 0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
 
 0049 - [Group Anagrams](https://github.com/Seonghoon-Yu/leetcode/blob/master/0049_Group_Anagrams.py)
