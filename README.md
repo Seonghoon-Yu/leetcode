@@ -8,6 +8,7 @@
 개인 블로그 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ---
+0001 - [Two Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0001_Two_Sum.py)
 
 0005 - [Longest Palindrome Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0005_Longest_Palindrome_Substring.py)
 
