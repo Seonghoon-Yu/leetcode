@@ -12,7 +12,11 @@
 
 0005 - [Longest Palindrome Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0005_Longest_Palindrome_Substring.py)
 
+0015 - [3Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0015_3Sum.py)
+
 0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
+
+0042 - [Trapping Rain Water](https://github.com/Seonghoon-Yu/leetcode/blob/master/0042_Trapping_Rain_Water.py)
 
 0049 - [Group Anagrams](https://github.com/Seonghoon-Yu/leetcode/blob/master/0049_Group_Anagrams.py)
 
@@ -73,6 +77,8 @@
 0461 - [Hamming Distance](https://github.com/Seonghoon-Yu/leetcode/blob/master/0461_Hamming_Distance.py)
 
 0509 - [Fibonacci Number](https://github.com/Seonghoon-Yu/leetcode/blob/master/0509_Fibonacci_Number.py)
+
+0561 - [Array Partition 1](https://github.com/Seonghoon-Yu/leetcode/blob/master/0561_Array_Partition_1.py)
 
 0621 - [Task Scheduler](https://github.com/Seonghoon-Yu/leetcode/blob/master/0621_Task_Scheduler.py)
 
