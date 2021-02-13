@@ -32,6 +32,8 @@
 
 0105 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Seonghoon-Yu/leetcode/blob/master/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
 
+0121 - [Bets Time to Buy and Sell Stock](https://github.com/Seonghoon-Yu/leetcode/blob/master/0121_Best_Time_to_Buy_and_Sell_Stock.py)
+
 0122 - [Best Time to Buy and Sell Stock II](https://github.com/Seonghoon-Yu/leetcode/blob/master/0122_Best_Time_to_Buy_and_Sell_Stock_II.py)
 
 0125 - [Valid Palindrome](https://github.com/Seonghoon-Yu/leetcode/blob/master/0125_Valid_Palindrome.py)
