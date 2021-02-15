@@ -14,6 +14,8 @@
 
 0015 - [3Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0015_3Sum.py)
 
+0021 - [Merge Two Sorted Lists](https://github.com/Seonghoon-Yu/leetcode/blob/master/0021_Merge_Two_Sorted_Lists.py)
+
 0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
 
 0042 - [Trapping Rain Water](https://github.com/Seonghoon-Yu/leetcode/blob/master/0042_Trapping_Rain_Water.py)
@@ -54,9 +56,14 @@
 
 0198 - [House Robber](https://github.com/Seonghoon-Yu/leetcode/blob/master/0198_House_Roober.py)
 
+0206 - [Reverse Linked List](
+https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py)
+
 0208 - [Implement Trie](https://github.com/Seonghoon-Yu/leetcode/blob/master/0208_Implement_Trie.py)
 
 0215 - [Kth Largest Element in an Array](https://github.com/Seonghoon-Yu/leetcode/blob/master/0215_Kth_Largest_Element_in_an_Array.py)
+
+0234 - [Palindrome Linked List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0234_Palindrome_Linked_List.py)
 
 0238 - [Product of Array Except Self](https://github.com/Seonghoon-Yu/leetcode/blob/master/0238_Product_of_Array_Except_Self.py)
 
