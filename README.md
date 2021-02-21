@@ -16,6 +16,8 @@
 
 0015 - [3Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0015_3Sum.py)
 
+0020 - [Valid Parentheses](https://github.com/Seonghoon-Yu/leetcode/blob/master/0020_Valid_Parentheses.py)
+
 0021 - [Merge Two Sorted Lists](https://github.com/Seonghoon-Yu/leetcode/blob/master/0021_Merge_Two_Sorted_Lists.py)
 
 0024 - [Swap Nodes in Pairs](https://github.com/Seonghoon-Yu/leetcode/blob/master/0024_Swap_Nodes_in_Pairs.py)
