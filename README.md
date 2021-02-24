@@ -105,6 +105,8 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 
 0707 - [Design Linked List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0707_Design_Linked_List.py)
 
+0739 - [Daily Temperatures](https://github.com/Seonghoon-Yu/leetcode/blob/master/0739_Daily_Temperatures.py)
+
 0783 - [Minimum Distance Betwwen BST nodes](https://github.com/Seonghoon-Yu/leetcode/blob/master/0783_minimum_distance_between_bst_nodes.py)
 
 0819 - [Most Common Word](https://github.com/Seonghoon-Yu/leetcode/blob/master/0819_Most_Common_Word.py)
