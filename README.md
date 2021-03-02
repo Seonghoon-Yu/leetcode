@@ -69,6 +69,10 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 
 0215 - [Kth Largest Element in an Array](https://github.com/Seonghoon-Yu/leetcode/blob/master/0215_Kth_Largest_Element_in_an_Array.py)
 
+0225 - [Implement Stack using Queues](https://github.com/Seonghoon-Yu/leetcode/blob/master/0225_Implement_Stack_using_Queues.py)
+
+0232 - [Implement Queue using Stacks](https://github.com/Seonghoon-Yu/leetcode/blob/master/0232_Implement_Queue_using_Stacks.py)
+
 0234 - [Palindrome Linked List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0234_Palindrome_Linked_List.py)
 
 0238 - [Product of Array Except Self](https://github.com/Seonghoon-Yu/leetcode/blob/master/0238_Product_of_Array_Except_Self.py)
@@ -100,6 +104,8 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 0561 - [Array Partition 1](https://github.com/Seonghoon-Yu/leetcode/blob/master/0561_Array_Partition_1.py)
 
 0621 - [Task Scheduler](https://github.com/Seonghoon-Yu/leetcode/blob/master/0621_Task_Scheduler.py)
+
+0622 - [Design Circular Queue](https://github.com/Seonghoon-Yu/leetcode/blob/master/0622_Design_Circular_Queue.py)
 
 0704 - [Binary_Search](https://github.com/Seonghoon-Yu/leetcode/blob/master/0704_Binary_Search.py)
 
