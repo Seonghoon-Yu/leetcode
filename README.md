@@ -20,6 +20,8 @@
 
 0021 - [Merge Two Sorted Lists](https://github.com/Seonghoon-Yu/leetcode/blob/master/0021_Merge_Two_Sorted_Lists.py)
 
+0023 - [Merge k sorted Lists](https://github.com/Seonghoon-Yu/leetcode/blob/master/0023_Merge_k_sorted_lists.py)
+
 0024 - [Swap Nodes in Pairs](https://github.com/Seonghoon-Yu/leetcode/blob/master/0024_Swap_Nodes_in_Pairs.py)
 
 0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
