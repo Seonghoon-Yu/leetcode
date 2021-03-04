@@ -113,6 +113,8 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 
 0704 - [Binary_Search](https://github.com/Seonghoon-Yu/leetcode/blob/master/0704_Binary_Search.py)
 
+0706 - [Design HashMap](https://github.com/Seonghoon-Yu/leetcode/blob/master/0706_Design_HashMap.py)
+
 0707 - [Design Linked List](https://github.com/Seonghoon-Yu/leetcode/blob/master/0707_Design_Linked_List.py)
 
 0739 - [Daily Temperatures](https://github.com/Seonghoon-Yu/leetcode/blob/master/0739_Daily_Temperatures.py)
