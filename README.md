@@ -12,6 +12,8 @@
 
 0002 - [Add Two Numbers](https://github.com/Seonghoon-Yu/leetcode/blob/master/0002_Add_Two_Numbers.py)
 
+0003 - [Longest Substring Without Repeating Characters](https://github.com/Seonghoon-Yu/leetcode/blob/master/0003_Longest_Substring_Without_Repeating_Characters.py)
+
 0005 - [Longest Palindrome Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0005_Longest_Palindrome_Substring.py)
 
 0015 - [3Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0015_3Sum.py)
@@ -90,6 +92,8 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 0316 - [Remove Duplicate Letters](https://github.com/Seonghoon-Yu/leetcode/blob/master/0316_Remove_Duplicate_Letters.py)
 
 0344 - [Reverse String](https://github.com/Seonghoon-Yu/leetcode/blob/master/0344_Reverse_String.py)
+
+0347 - [Top K Frequent Elements](https://github.com/Seonghoon-Yu/leetcode/blob/master/0347_Top_K_Frequent_Elements.py)
 
 0349 - [Intersection of Two Arrays](https://github.com/Seonghoon-Yu/leetcode/blob/master/0349_Intersection_of_Two_Arrays.py)
 
