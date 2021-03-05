@@ -1,0 +1,12 @@
+# 한줄 풀이
+def numJewelsInStones(self, J, S):
+    return sum(s in J for s in S)
+    
+    
+# Counter 모듈 이용
+def numJewelsInStones(self, J, S):
+    freqs = collections.Counter(S)
+    count = 0
+    for char in J:
+        count += freqs[char]
+    return count
