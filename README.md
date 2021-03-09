@@ -66,6 +66,8 @@
 
 0198 - [House Robber](https://github.com/Seonghoon-Yu/leetcode/blob/master/0198_House_Roober.py)
 
+0200 - [Number of Islands](https://github.com/Seonghoon-Yu/leetcode/blob/master/0200_Number_of_Islands.py)
+
 0206 - [Reverse Linked List](
 https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py)
 
