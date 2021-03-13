@@ -30,6 +30,8 @@
 
 0033 - [Search in Rotated Sorted Array](https://github.com/Seonghoon-Yu/leetcode/tree/master)
 
+0039 - [Combination Sum](https://github.com/Seonghoon-Yu/leetcode/blob/master/0039_Combination_Sum.py)
+
 0042 - [Trapping Rain Water](https://github.com/Seonghoon-Yu/leetcode/blob/master/0042_Trapping_Rain_Water.py)
 
 0049 - [Group Anagrams](https://github.com/Seonghoon-Yu/leetcode/blob/master/0049_Group_Anagrams.py)
@@ -43,6 +45,8 @@
 0075 - [Sort Colors](https://github.com/Seonghoon-Yu/leetcode/blob/master/0075_Sort_Colors.py)
 
 0076 - [Minimum Window Substring](https://github.com/Seonghoon-Yu/leetcode/blob/master/0076_Minimum_Window_Substring.py)
+
+0078 - [Subsets](https://github.com/Seonghoon-Yu/leetcode/blob/master/0078_Subsets.py)
 
 0105 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Seonghoon-Yu/leetcode/blob/master/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
 
@@ -94,6 +98,8 @@ https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py
 0242 - [Valid Anagram](https://github.com/Seonghoon-Yu/leetcode/blob/master/0242_Valid_Anagram.py)
 
 0316 - [Remove Duplicate Letters](https://github.com/Seonghoon-Yu/leetcode/blob/master/0316_Remove_Duplicate_Letters.py)
+
+0332 - [Reconstruct Itinerary](https://github.com/Seonghoon-Yu/leetcode/blob/master/0332_Reconstruct_Itinerary.py)
 
 0344 - [Reverse String](https://github.com/Seonghoon-Yu/leetcode/blob/master/0344_Reverse_String.py)
 
