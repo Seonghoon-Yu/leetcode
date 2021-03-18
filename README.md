@@ -79,6 +79,8 @@
 0206 - [Reverse Linked List](
 https://github.com/Seonghoon-Yu/leetcode/blob/master/0206_Reverse_Linked_List.py)
 
+0207 - [Course Schedule](https://github.com/Seonghoon-Yu/leetcode/blob/master/0207_Course_Schedule.py)
+
 0208 - [Implement Trie](https://github.com/Seonghoon-Yu/leetcode/blob/master/0208_Implement_Trie.py)
 
 0215 - [Kth Largest Element in an Array](https://github.com/Seonghoon-Yu/leetcode/blob/master/0215_Kth_Largest_Element_in_an_Array.py)
